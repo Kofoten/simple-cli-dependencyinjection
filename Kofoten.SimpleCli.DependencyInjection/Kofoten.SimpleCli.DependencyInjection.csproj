@@ -7,7 +7,7 @@
     <IsAotCompatible>true</IsAotCompatible>
     <IsTrimmable>true</IsTrimmable>
     <IsPackable>true</IsPackable>
-    <PackageId>OEventCourseHelper.Core</PackageId>
+    <PackageId>Kofoten.SimpleCli.DependencyInjection</PackageId>
     <Authors>Rasmus Steen</Authors>
     <Description>A small dependency injection shim for Kofoten.SimpleCli.</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
