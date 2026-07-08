@@ -2,6 +2,10 @@
 
 This is a shim providing dependency injection capabilities for [Kofoten.SimpleCli](https://github.com/Kofoten/simple-cli).
 
+## ⚠️ Archived ⚠️
+
+This code has been pulled back into the original repository ([https://github.com/Kofoten/simple-cli](https://github.com/Kofoten/simple-cli)) and will no longer be maintained as a separate repository.
+
 ## Usage
 
 Program.cs
